@@ -23,5 +23,8 @@
     <ClInclude Include="RLTrainingTimerAPITest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\RLTrainingTimer\Plugin\API\RLTrainingTimerAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

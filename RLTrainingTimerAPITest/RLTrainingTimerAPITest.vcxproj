@@ -58,6 +58,7 @@
     <ClCompile Include="RLTrainingTimerAPITest.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\RLTrainingTimer\Plugin\API\RLTrainingTimerAPI.h" />
     <ClInclude Include="RLTrainingTimerAPITest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
