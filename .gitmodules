@@ -1,0 +1,4 @@
+[submodule "RLTrainingTimer"]
+	path = RLTrainingTimer
+	url = https://github.com/Timmeey86/RLTrainingTimer.git
+	branch = feature/prejump-API
